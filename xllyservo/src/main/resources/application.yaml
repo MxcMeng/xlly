@@ -15,8 +15,5 @@ mybatis:
     default-fetch-size: 100
     default-statement-timeout: 30
 logging:
-#  pattern:
-#    console: '%d{ABSOLUTE} %5p %t %c{2}:%L - %m%n'
-#    level: '%d{ABSOLUTE} %5p %t %c{2}:%L - %m%n'
   level:
     com.mxc.xlly.xllyservo: debug
