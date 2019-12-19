@@ -1,0 +1,22 @@
+server:
+  port: 8081
+  servlet:
+    context-path: /admin
+spring:
+  datasource:
+    username: root
+    password: root
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/mxc?useUnicode=true&characterEncoding=utf8&serverTimezone=UTC
+mybatis:
+  type-aliases-package: com.mxc.xlly.xllyservo
+  configuration:
+    map-underscore-to-camel-case: true
+    default-fetch-size: 100
+    default-statement-timeout: 30
+logging:
+#  pattern:
+#    console: '%d{ABSOLUTE} %5p %t %c{2}:%L - %m%n'
+#    level: '%d{ABSOLUTE} %5p %t %c{2}:%L - %m%n'
+  level:
+    com.mxc.xlly.xllyservo: debug

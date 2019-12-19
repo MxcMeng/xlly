@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7cc60229-a718-4abe-ad7e-eda36a4ea117" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="mxc@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/servo">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/xllydata">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/xllyservo">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/java/maven/apache-maven-3.6.2" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Uv8jtLPRACSC5H2CAdCmWYI6dm" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.annotationProcessors" />
+    <property name="settings.editor.splitter.proportion" value="0.28440368" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.XllyservoApplication">
+    <configuration name="XllydataApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="xlly.xllydata.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mxc.xlly.xllydata.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mxc.xlly.xllydata.XllydataApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="XllyservoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="xlly.xllyservo.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.mxc.xlly.xllyservo.user.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mxc.xlly.xllyservo.XllyservoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.XllyservoApplication" />
+        <item itemvalue="Spring Boot.XllydataApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7cc60229-a718-4abe-ad7e-eda36a4ea117" name="Default Changelist" comment="" />
+      <created>1576225846556</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576225846556</updated>
+      <workItem from="1576225848397" duration="3431000" />
+      <workItem from="1576544655971" duration="179000" />
+      <workItem from="1576631654818" duration="14512000" />
+      <workItem from="1576734905452" duration="1789000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="26" key="#Project_Structure" timestamp="1576229241571">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="26" key="#Project_Structure/0.0.1366.738@0.0.1366.738" timestamp="1576229241571" />
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1576634887912">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="23" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1576634887912" />
+    <state width="1322" height="128" key="GridCell.Tab.0.bottom" timestamp="1576736612301">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="128" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1576736612301" />
+    <state width="1322" height="128" key="GridCell.Tab.0.center" timestamp="1576736612300">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="128" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1576736612300" />
+    <state width="1322" height="128" key="GridCell.Tab.0.left" timestamp="1576736612300">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="128" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1576736612300" />
+    <state width="1322" height="128" key="GridCell.Tab.0.right" timestamp="1576736612300">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="128" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1576736612300" />
+    <state width="1322" height="128" key="GridCell.Tab.1.bottom" timestamp="1576736611901">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="128" key="GridCell.Tab.1.bottom/0.0.1366.738@0.0.1366.738" timestamp="1576736611901" />
+    <state width="1322" height="128" key="GridCell.Tab.1.center" timestamp="1576736611897">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="128" key="GridCell.Tab.1.center/0.0.1366.738@0.0.1366.738" timestamp="1576736611897" />
+    <state width="1322" height="128" key="GridCell.Tab.1.left" timestamp="1576736611894">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="128" key="GridCell.Tab.1.left/0.0.1366.738@0.0.1366.738" timestamp="1576736611894" />
+    <state width="1322" height="128" key="GridCell.Tab.1.right" timestamp="1576736611900">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="128" key="GridCell.Tab.1.right/0.0.1366.738@0.0.1366.738" timestamp="1576736611900" />
+    <state width="1322" height="128" key="GridCell.Tab.2.bottom" timestamp="1576736611911">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="128" key="GridCell.Tab.2.bottom/0.0.1366.738@0.0.1366.738" timestamp="1576736611911" />
+    <state width="1322" height="128" key="GridCell.Tab.2.center" timestamp="1576736611906">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="128" key="GridCell.Tab.2.center/0.0.1366.738@0.0.1366.738" timestamp="1576736611906" />
+    <state width="1322" height="128" key="GridCell.Tab.2.left" timestamp="1576736611903">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="128" key="GridCell.Tab.2.left/0.0.1366.738@0.0.1366.738" timestamp="1576736611903" />
+    <state width="1322" height="128" key="GridCell.Tab.2.right" timestamp="1576736611909">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1322" height="128" key="GridCell.Tab.2.right/0.0.1366.738@0.0.1366.738" timestamp="1576736611909" />
+    <state x="263" y="111" key="IDE.errors.dialog" timestamp="1576225870599">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="263" y="111" key="IDE.errors.dialog/0.0.1366.738@0.0.1366.738" timestamp="1576225870599" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1576544856616">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1576544856616" />
+    <state x="363" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1576734905502">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="363" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1576734905502" />
+    <state x="92" y="92" width="1182" height="554" key="dock-window-1" timestamp="1576654095541">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="92" y="92" width="1182" height="554" key="dock-window-1/0.0.1366.738@0.0.1366.738" timestamp="1576654095541" />
+    <state x="53" y="0" key="new project wizard" timestamp="1576226757711">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="53" y="0" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1576226757711" />
+  </component>
+</project>

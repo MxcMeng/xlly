@@ -1,0 +1,3 @@
+rootProject.name = 'xlly'
+include 'xllyservo'
+include 'xllydata'
